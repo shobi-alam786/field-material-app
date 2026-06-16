@@ -1,0 +1,27 @@
+name: field_material_app
+description: A complete field material tracking offline application built in Flutter.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  shared_preferences: ^2.2.2
+  excel: ^4.0.6
+  share_plus: ^7.2.2
+  url_launcher: ^6.2.5
+  path_provider: ^2.1.2
+  permission_handler: ^11.3.0
+  connectivity_plus: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true

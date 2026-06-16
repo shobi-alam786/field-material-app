@@ -1,0 +1,6 @@
+{
+  "name": "Field Material App",
+  "description": "Offline-first field materials manager to track requested, received, used, and remaining materials with Excel/CSV/JSON export and WhatsApp sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
